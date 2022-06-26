@@ -36,6 +36,16 @@ public class PlayerMovementController : MonoBehaviour
 
     #endregion
 
+        void OnTriggerEnter(Collider other) 
+	{
+        	if (other.gameObject.CompareTag ("Pick Up"))
+            {
+                
+                other.gameObject.SetActive (false);
+            }
+			
+
+    }
 
     private void FixedUpdate()
     {

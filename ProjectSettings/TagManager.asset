@@ -7,6 +7,7 @@ TagManager:
   - Obstacle
   - Cuttable
   - Buyable
+  - Pick Up
   layers:
   - Default
   - TransparentFX
