@@ -566,15 +566,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Shadows Of The night
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1ddbc97ca8eda42749e1e1eb08026b42, type: 2}
-  m_sharedMaterial: {fileID: 8248030770639639578, guid: 1ddbc97ca8eda42749e1e1eb08026b42, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: bbdbd62c2ac261748b25415a268cbd37, type: 2}
+  m_sharedMaterial: {fileID: -6284292459069006697, guid: bbdbd62c2ac261748b25415a268cbd37, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4282575359
+  m_fontColor: {r: 1, g: 0.9145461, b: 0.2584905, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -591,8 +591,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 102.84
-  m_fontSizeBase: 102.84
+  m_fontSize: 160
+  m_fontSizeBase: 160
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1650,15 +1650,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: Elnaz Aghaei
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1ddbc97ca8eda42749e1e1eb08026b42, type: 2}
-  m_sharedMaterial: {fileID: 8248030770639639578, guid: 1ddbc97ca8eda42749e1e1eb08026b42, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: bbdbd62c2ac261748b25415a268cbd37, type: 2}
+  m_sharedMaterial: {fileID: -6284292459069006697, guid: bbdbd62c2ac261748b25415a268cbd37, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284280319
-  m_fontColor: {r: 1, g: 0.9303725, b: 0.3622641, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1675,8 +1675,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 58.7
-  m_fontSizeBase: 58.7
+  m_fontSize: 112.6
+  m_fontSizeBase: 112.6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
