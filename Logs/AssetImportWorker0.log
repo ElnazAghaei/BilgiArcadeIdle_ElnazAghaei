@@ -15,11 +15,11 @@ C:/E/uni/Spring semester/Game 206 - Friday/week 16 - finals/BilgiArcadeIdle_Elna
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56962
+58238
 Successfully changed project path to: C:/E/uni/Spring semester/Game 206 - Friday/week 16 - finals/BilgiArcadeIdle_ElnazAghaei_GitHub
 C:/E/uni/Spring semester/Game 206 - Friday/week 16 - finals/BilgiArcadeIdle_ElnazAghaei_GitHub
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 253.04 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 245.39 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.20f1 (41c4e627c95f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Resources/UnitySubsystems
@@ -37,701 +37,94 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56020
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002105 seconds.
+Registered in 0.002048 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 298.70 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 250.52 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.572 seconds
+- Completed reload, in  1.285 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1572ms)
-		BeginReloadAssembly (50ms)
+	ReloadAssembly (1285ms)
+		BeginReloadAssembly (48ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (673ms)
-			LoadAssemblies (48ms)
+		EndReloadAssembly (577ms)
+			LoadAssemblies (46ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (142ms)
+			SetupTypeCache (131ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (427ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (354ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (299ms)
-				BeforeProcessingInitializeOnLoad (13ms)
-				ProcessInitializeOnLoadAttributes (85ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (251ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (66ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.017544 seconds.
+Registered in 0.013713 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 475.96 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 262.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.377 seconds
+- Completed reload, in  1.917 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3378ms)
-		BeginReloadAssembly (155ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (3156ms)
-			LoadAssemblies (105ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (451ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (111ms)
-			SetupLoadedEditorAssemblies (2300ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (476ms)
-				BeforeProcessingInitializeOnLoad (163ms)
-				ProcessInitializeOnLoadAttributes (1261ms)
-				ProcessInitializeOnLoadMethodAttributes (374ms)
-				AfterProcessingInitializeOnLoad (19ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 3.15 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3942 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 220.1 MB.
-System memory in use after: 219.0 MB.
-
-Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 4428.
-Total: 30.899600 ms (FindLiveObjects: 0.419100 ms CreateObjectMapping: 0.249600 ms MarkObjects: 29.661700 ms  DeleteObjects: 0.567800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/Mine/Collect/Score.cs
-  artifactKey: Guid(898bb18f366e55a47a9a0400e699557d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mine/Collect/Score.cs using Guid(898bb18f366e55a47a9a0400e699557d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f8d47e6931653e7daa521d2d161cb7') in 0.027995 seconds 
-  Import took 0.036649 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012490 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.79 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.653 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1653ms)
-		BeginReloadAssembly (120ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (43ms)
-		EndReloadAssembly (1481ms)
-			LoadAssemblies (96ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (334ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (56ms)
-			SetupLoadedEditorAssemblies (883ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (574ms)
-				ProcessInitializeOnLoadMethodAttributes (202ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 4.98 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.3 MB.
-System memory in use after: 201.2 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4430.
-Total: 25.897100 ms (FindLiveObjects: 0.378200 ms CreateObjectMapping: 0.204900 ms MarkObjects: 24.790900 ms  DeleteObjects: 0.521800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012856 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.73 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.528 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1528ms)
-		BeginReloadAssembly (117ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (44ms)
-		EndReloadAssembly (1358ms)
-			LoadAssemblies (83ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (312ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (55ms)
-			SetupLoadedEditorAssemblies (809ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (96ms)
-				ProcessInitializeOnLoadAttributes (543ms)
-				ProcessInitializeOnLoadMethodAttributes (157ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.89 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.4 MB.
-System memory in use after: 201.3 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4432.
-Total: 25.878000 ms (FindLiveObjects: 0.362200 ms CreateObjectMapping: 0.209900 ms MarkObjects: 24.830700 ms  DeleteObjects: 0.474000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.017063 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 3.80 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.082 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2083ms)
-		BeginReloadAssembly (146ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (59ms)
-		EndReloadAssembly (1870ms)
-			LoadAssemblies (128ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (445ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (77ms)
-			SetupLoadedEditorAssemblies (1086ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (4ms)
-				BeforeProcessingInitializeOnLoad (122ms)
-				ProcessInitializeOnLoadAttributes (743ms)
-				ProcessInitializeOnLoadMethodAttributes (203ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 3.47 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.4 MB.
-System memory in use after: 201.3 MB.
-
-Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4433.
-Total: 31.267700 ms (FindLiveObjects: 0.425900 ms CreateObjectMapping: 0.274800 ms MarkObjects: 29.783400 ms  DeleteObjects: 0.780900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.052431 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 3.81 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.686 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3687ms)
-		BeginReloadAssembly (273ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (17ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (108ms)
-		EndReloadAssembly (3253ms)
-			LoadAssemblies (223ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (958ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (144ms)
-			SetupLoadedEditorAssemblies (1696ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (4ms)
-				BeforeProcessingInitializeOnLoad (202ms)
-				ProcessInitializeOnLoadAttributes (1154ms)
-				ProcessInitializeOnLoadMethodAttributes (317ms)
-				AfterProcessingInitializeOnLoad (12ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (55ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 4.24 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.4 MB.
-System memory in use after: 201.3 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4435.
-Total: 62.408200 ms (FindLiveObjects: 0.723800 ms CreateObjectMapping: 0.440500 ms MarkObjects: 60.057000 ms  DeleteObjects: 1.184400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013865 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 3.06 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.923 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1923ms)
-		BeginReloadAssembly (138ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (56ms)
-		EndReloadAssembly (1714ms)
-			LoadAssemblies (114ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (422ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (70ms)
-			SetupLoadedEditorAssemblies (990ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (110ms)
-				ProcessInitializeOnLoadAttributes (683ms)
-				ProcessInitializeOnLoadMethodAttributes (182ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (18ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.94 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.5 MB.
-System memory in use after: 201.3 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4437.
-Total: 25.498200 ms (FindLiveObjects: 0.346100 ms CreateObjectMapping: 0.188500 ms MarkObjects: 24.388200 ms  DeleteObjects: 0.573900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013255 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.95 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.592 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1592ms)
-		BeginReloadAssembly (106ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (1435ms)
-			LoadAssemblies (80ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (306ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (59ms)
-			SetupLoadedEditorAssemblies (887ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (93ms)
-				ProcessInitializeOnLoadAttributes (605ms)
-				ProcessInitializeOnLoadMethodAttributes (169ms)
-				AfterProcessingInitializeOnLoad (11ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 3.00 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.5 MB.
-System memory in use after: 201.4 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4439.
-Total: 25.852800 ms (FindLiveObjects: 0.365700 ms CreateObjectMapping: 0.198700 ms MarkObjects: 24.686900 ms  DeleteObjects: 0.600000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.015279 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 3.31 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.803 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1803ms)
+	ReloadAssembly (1918ms)
 		BeginReloadAssembly (124ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (1618ms)
-			LoadAssemblies (96ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (1739ms)
+			LoadAssemblies (92ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (361ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (69ms)
-			SetupLoadedEditorAssemblies (976ms)
+			SetupTypeCache (316ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (1148ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (108ms)
-				ProcessInitializeOnLoadAttributes (646ms)
-				ProcessInitializeOnLoadMethodAttributes (201ms)
-				AfterProcessingInitializeOnLoad (12ms)
+				RefreshPlugins (262ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (610ms)
+				ProcessInitializeOnLoadMethodAttributes (178ms)
+				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 3.11 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.5 MB.
-System memory in use after: 201.4 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4441.
-Total: 31.543100 ms (FindLiveObjects: 0.608200 ms CreateObjectMapping: 0.324200 ms MarkObjects: 29.958800 ms  DeleteObjects: 0.650000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.014441 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.82 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.528 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1529ms)
-		BeginReloadAssembly (99ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (1380ms)
-			LoadAssemblies (80ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (312ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (62ms)
-			SetupLoadedEditorAssemblies (823ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (556ms)
-				ProcessInitializeOnLoadMethodAttributes (161ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
+Worker process is ready to serve import requests
 Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
 Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.84 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 3.02 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.5 MB.
-System memory in use after: 201.4 MB.
+Unloading 3942 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 220.2 MB.
+System memory in use after: 219.2 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4443.
-Total: 23.757700 ms (FindLiveObjects: 0.327900 ms CreateObjectMapping: 0.171000 ms MarkObjects: 22.714800 ms  DeleteObjects: 0.542600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012984 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.85 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.507 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1507ms)
-		BeginReloadAssembly (107ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (42ms)
-		EndReloadAssembly (1351ms)
-			LoadAssemblies (80ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (297ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (55ms)
-			SetupLoadedEditorAssemblies (813ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (90ms)
-				ProcessInitializeOnLoadAttributes (555ms)
-				ProcessInitializeOnLoadMethodAttributes (154ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.80 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.5 MB.
-System memory in use after: 201.4 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4445.
-Total: 25.882400 ms (FindLiveObjects: 0.350600 ms CreateObjectMapping: 0.179100 ms MarkObjects: 24.780800 ms  DeleteObjects: 0.570000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013168 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 3.49 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.556 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1556ms)
-		BeginReloadAssembly (111ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1392ms)
-			LoadAssemblies (87ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (303ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (57ms)
-			SetupLoadedEditorAssemblies (842ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (4ms)
-				BeforeProcessingInitializeOnLoad (90ms)
-				ProcessInitializeOnLoadAttributes (568ms)
-				ProcessInitializeOnLoadMethodAttributes (169ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 3.00 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 202.5 MB.
-System memory in use after: 201.4 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4447.
-Total: 26.046300 ms (FindLiveObjects: 0.363800 ms CreateObjectMapping: 0.196200 ms MarkObjects: 24.922700 ms  DeleteObjects: 0.562100 ms)
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 4429.
+Total: 31.298900 ms (FindLiveObjects: 0.375400 ms CreateObjectMapping: 0.228500 ms MarkObjects: 30.205500 ms  DeleteObjects: 0.488200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -746,105 +139,144 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 2428.586956 seconds.
   path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
   artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78584a4e141c55f57bdee05c8717d04') in 0.639991 seconds 
-  Import took 0.678637 seconds .
+Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f049bf10dbe14b08e4a1219c825023b') in 0.752726 seconds 
+  Import took 0.799088 seconds .
+
+========================================================================
+Received Prepare
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 8.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.2 MB.
+System memory in use after: 154.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 22.342800 ms (FindLiveObjects: 0.392700 ms CreateObjectMapping: 0.232400 ms MarkObjects: 21.191100 ms  DeleteObjects: 0.525500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 273.766182 seconds.
+  path: Assets/Mine/Collect/Glow.mat
+  artifactKey: Guid(8fd6cceee4d60b140b44e108da9f7926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Collect/Glow.mat using Guid(8fd6cceee4d60b140b44e108da9f7926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd14b52e3e9561e8a268ade13c0513fd') in 0.047575 seconds 
+  Import took 0.058197 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.012371 seconds.
+Registered in 0.013165 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.563 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1563ms)
+		BeginReloadAssembly (124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (1388ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (325ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (797ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (539ms)
+				ProcessInitializeOnLoadMethodAttributes (151ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 2.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 227.8 MB.
+System memory in use after: 226.8 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 4513.
+Total: 23.862200 ms (FindLiveObjects: 0.309900 ms CreateObjectMapping: 0.172300 ms MarkObjects: 22.972000 ms  DeleteObjects: 0.406400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 430.957701 seconds.
+  path: Assets/Art/SkyBox/Sky 01.mat
+  artifactKey: Guid(d0523d8917957bb429a32997cb0e52b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SkyBox/Sky 01.mat using Guid(d0523d8917957bb429a32997cb0e52b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efad38f82130e0c80f4b8e8c685de79') in 0.178620 seconds 
+  Import took 0.189456 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012975 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 2.72 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.551 seconds
+- Completed reload, in  1.534 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1551ms)
-		BeginReloadAssembly (125ms)
+	ReloadAssembly (1535ms)
+		BeginReloadAssembly (111ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (1376ms)
-			LoadAssemblies (83ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1372ms)
+			LoadAssemblies (87ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (301ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (56ms)
-			SetupLoadedEditorAssemblies (807ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (548ms)
-				ProcessInitializeOnLoadMethodAttributes (159ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (21ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.84 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 227.6 MB.
-System memory in use after: 226.5 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4496.
-Total: 24.307400 ms (FindLiveObjects: 0.342700 ms CreateObjectMapping: 0.186000 ms MarkObjects: 23.288600 ms  DeleteObjects: 0.489100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012872 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.74 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.551 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1552ms)
-		BeginReloadAssembly (113ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (1388ms)
-			LoadAssemblies (86ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (301ms)
+			SetupTypeCache (304ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (57ms)
-			SetupLoadedEditorAssemblies (821ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (801ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (100ms)
-				ProcessInitializeOnLoadAttributes (547ms)
-				ProcessInitializeOnLoadMethodAttributes (159ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (542ms)
+				ProcessInitializeOnLoadMethodAttributes (158ms)
 				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -852,326 +284,14 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
 Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.86 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 227.6 MB.
-System memory in use after: 226.5 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4498.
-Total: 26.970800 ms (FindLiveObjects: 0.416200 ms CreateObjectMapping: 0.234700 ms MarkObjects: 25.537300 ms  DeleteObjects: 0.781300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 428.346407 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673481b5100c21b3cf916d979f523f11') in 0.549377 seconds 
-  Import took 0.583868 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012085 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.82 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.597 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1597ms)
-		BeginReloadAssembly (129ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (1411ms)
-			LoadAssemblies (91ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (312ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (829ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (549ms)
-				ProcessInitializeOnLoadMethodAttributes (173ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.87 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.4 MB.
-System memory in use after: 227.3 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4536.
-Total: 26.479000 ms (FindLiveObjects: 0.401000 ms CreateObjectMapping: 0.165400 ms MarkObjects: 25.167700 ms  DeleteObjects: 0.743800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 63.087886 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e40cfb2eb124de35772e2990962132de') in 0.507946 seconds 
-  Import took 0.543464 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.788611 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d73986859fafd313c1ceff6f72a1fc') in 0.375883 seconds 
-  Import took 0.413828 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.754126 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e64315da571af1563b3147e4000aa2f') in 0.360988 seconds 
-  Import took 0.395141 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.447026 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f2faa3a53ef1dbaa93e59b1b8afb54c') in 0.361453 seconds 
-  Import took 0.396332 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 217.769271 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44b622183b5e52cca5026bb8f724204') in 0.379813 seconds 
-  Import took 0.414814 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.525164 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53bfaccc50feeabe9df433d0c6901ac') in 0.367434 seconds 
-  Import took 0.404163 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013426 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.83 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.644 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1645ms)
-		BeginReloadAssembly (120ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (49ms)
-		EndReloadAssembly (1473ms)
-			LoadAssemblies (89ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (301ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (55ms)
-			SetupLoadedEditorAssemblies (906ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (98ms)
-				ProcessInitializeOnLoadAttributes (627ms)
-				ProcessInitializeOnLoadMethodAttributes (168ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.82 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 231.5 MB.
-System memory in use after: 230.4 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4574.
-Total: 27.950300 ms (FindLiveObjects: 0.348000 ms CreateObjectMapping: 0.170300 ms MarkObjects: 26.549400 ms  DeleteObjects: 0.881800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 161.482011 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7d4c9c568afd9f02919ce8e0a62a69') in 0.513376 seconds 
-  Import took 0.550096 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.106818 seconds.
-  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
-  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb201ccc6634333a6a0d6a9b4a693819') in 0.365365 seconds 
-  Import took 0.403437 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011698 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.89 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.589 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1589ms)
-		BeginReloadAssembly (121ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1414ms)
-			LoadAssemblies (88ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (308ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (56ms)
-			SetupLoadedEditorAssemblies (840ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (95ms)
-				ProcessInitializeOnLoadAttributes (552ms)
-				ProcessInitializeOnLoadMethodAttributes (180ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.88 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 231.8 MB.
-System memory in use after: 230.6 MB.
-
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4612.
-Total: 25.914200 ms (FindLiveObjects: 0.450800 ms CreateObjectMapping: 0.174100 ms MarkObjects: 24.725600 ms  DeleteObjects: 0.562900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013964 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 3.09 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.576 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1577ms)
-		BeginReloadAssembly (117ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (42ms)
-		EndReloadAssembly (1409ms)
-			LoadAssemblies (81ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (295ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (67ms)
-			SetupLoadedEditorAssemblies (825ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (96ms)
-				ProcessInitializeOnLoadAttributes (558ms)
-				ProcessInitializeOnLoadMethodAttributes (154ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
-Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 4.50 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 231.8 MB.
-System memory in use after: 230.7 MB.
+System memory in use before: 228.0 MB.
+System memory in use after: 227.0 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4614.
-Total: 34.345000 ms (FindLiveObjects: 0.484500 ms CreateObjectMapping: 0.271600 ms MarkObjects: 32.823700 ms  DeleteObjects: 0.763500 ms)
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 4551.
+Total: 25.143400 ms (FindLiveObjects: 0.415600 ms CreateObjectMapping: 0.177400 ms MarkObjects: 24.057000 ms  DeleteObjects: 0.492400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1185,533 +305,53 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 2262.730963 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Circle01_White1.png
-  artifactKey: Guid(9472dd791d5b84a96bde5ffc59b4647a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Circle01_White1.png using Guid(9472dd791d5b84a96bde5ffc59b4647a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ac1aa109566ff2e71bf7ca8f78ad1d') in 0.079138 seconds 
-  Import took 0.089241 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Demo/Btn_IconButton_Hexagon01_Green.png
-  artifactKey: Guid(c91b271930e3c46e7933d5b2fd3e54c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Demo/Btn_IconButton_Hexagon01_Green.png using Guid(c91b271930e3c46e7933d5b2fd3e54c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acdf6728f65987658649b0c25b2edd1c') in 0.020068 seconds 
-  Import took 0.026384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_s_White1.png
-  artifactKey: Guid(90719ef04090d4ead89eb9654ff65278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_s_White1.png using Guid(90719ef04090d4ead89eb9654ff65278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4f8e86297c744e446fd6307052ea4f') in 0.014500 seconds 
-  Import took 0.021338 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon05_White2.png
-  artifactKey: Guid(bb8783d8eb7ca4545ad62d11636f2095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon05_White2.png using Guid(bb8783d8eb7ca4545ad62d11636f2095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '476337302aafe76bc377a07de00e56e4') in 0.015604 seconds 
-  Import took 0.022541 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon02_White2.png
-  artifactKey: Guid(dca0b6e3f71f244b5ad5284483fd95de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon02_White2.png using Guid(dca0b6e3f71f244b5ad5284483fd95de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941aa36093dacfb5966ed6b007cef345') in 0.014029 seconds 
-  Import took 0.021595 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon01_White1.png
-  artifactKey: Guid(608269bf514d64d29831353b7395de57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon01_White1.png using Guid(608269bf514d64d29831353b7395de57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5759e552aa255a698b10ff57d22427') in 0.016150 seconds 
-  Import took 0.023065 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_90_White1.png
-  artifactKey: Guid(5d18d83640df34f4eaa5a92e4c99c650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_90_White1.png using Guid(5d18d83640df34f4eaa5a92e4c99c650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd416432868f8f66f7b3ab57b8a2cc70a') in 0.014007 seconds 
-  Import took 0.021495 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon01_White3.png
-  artifactKey: Guid(91726797038a446cb90dbdc3a3fa383d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon01_White3.png using Guid(91726797038a446cb90dbdc3a3fa383d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16574e1f102e58df73d18a13fea92c3e') in 0.013994 seconds 
-  Import took 0.022476 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_s_White3.png
-  artifactKey: Guid(72f1e0297275c406da82ccfa743e9b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_s_White3.png using Guid(72f1e0297275c406da82ccfa743e9b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32818b99d2cdc617c4045f9add84cd06') in 0.018009 seconds 
-  Import took 0.024708 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon05_White1.png
-  artifactKey: Guid(341719ca5ca54410ca2003d94b0fae0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon05_White1.png using Guid(341719ca5ca54410ca2003d94b0fae0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3816fd1082e93b527bf60f4fcaa5b90') in 0.014054 seconds 
-  Import took 0.021342 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon03_White2.png
-  artifactKey: Guid(cc17a554fdd8948a98b829a81c46dba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon03_White2.png using Guid(cc17a554fdd8948a98b829a81c46dba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a14b088faf470de3efbd9b39b1f830c') in 0.014147 seconds 
-  Import took 0.021194 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_121_White.png
-  artifactKey: Guid(21a720df3e95d4e9cbf40d621813f806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_121_White.png using Guid(21a720df3e95d4e9cbf40d621813f806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79dcc9bc38aa0da75ca57e7b82f5d340') in 0.014885 seconds 
-  Import took 0.021931 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Demo/Btn_IconButton_Hexagon03_Navy.png
-  artifactKey: Guid(b724174bc6de043b2bda8531154ec892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Demo/Btn_IconButton_Hexagon03_Navy.png using Guid(b724174bc6de043b2bda8531154ec892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03280ffac935377b34ca9adc98d7e421') in 0.014978 seconds 
-  Import took 0.022229 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon01_White2.png
-  artifactKey: Guid(8e58624cab8d64bad8bc7a72aeb368cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon01_White2.png using Guid(8e58624cab8d64bad8bc7a72aeb368cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5e12de14b44ac4d3adcf57dd30b532') in 0.012324 seconds 
-  Import took 0.019128 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon03_White1.png
-  artifactKey: Guid(44875c57a2edf4dea9870580e2283f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon03_White1.png using Guid(44875c57a2edf4dea9870580e2283f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc513a4d8b997efa8ab258fe0413d21b') in 0.012370 seconds 
-  Import took 0.018769 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Demo/Btn_IconButton_Hexagon05_Transpar.png
-  artifactKey: Guid(cd180bb37ec31417d96389353e9deb49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Demo/Btn_IconButton_Hexagon05_Transpar.png using Guid(cd180bb37ec31417d96389353e9deb49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57a757e540b991074ba35944bc8804f') in 0.012693 seconds 
-  Import took 0.019872 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Demo/Btn_IconButton_Hexagon02_Navy.png
-  artifactKey: Guid(90dabc4abf5834597ad7f9fe22e6664f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Demo/Btn_IconButton_Hexagon02_Navy.png using Guid(90dabc4abf5834597ad7f9fe22e6664f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d37484215a0aa10a0d7a6f02628a0b') in 0.014498 seconds 
-  Import took 0.021590 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Hexagon.png
-  artifactKey: Guid(86ae55c4ff9e645a0b6f06ac95e0fb4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Hexagon.png using Guid(86ae55c4ff9e645a0b6f06ac95e0fb4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230119d16ab93d3cd04f129c1297d6f3') in 0.014641 seconds 
-  Import took 0.022840 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon04_Helmet_s.png
-  artifactKey: Guid(ef74cea6688b641b7b3404c45b3d7134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon04_Helmet_s.png using Guid(ef74cea6688b641b7b3404c45b3d7134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e13fcded37060553fe644be6136743') in 0.014872 seconds 
-  Import took 0.022515 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Chest03.Png
-  artifactKey: Guid(f2b62771849b945c19db9d3747441d14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Chest03.Png using Guid(f2b62771849b945c19db9d3747441d14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543761044156dbc734d612849391de85') in 0.015793 seconds 
-  Import took 0.023804 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Check02.png
-  artifactKey: Guid(3bb8d4798a43049ce924f7f2f15566aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Check02.png using Guid(3bb8d4798a43049ce924f7f2f15566aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5cd2611d5155ad9f45b3477bedaeefa') in 0.014901 seconds 
-  Import took 0.021650 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_ItemIcon/Icon_ItemIcon_Middle_Heart.png
-  artifactKey: Guid(409c2b729256a4b9892a03469a25dcde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_ItemIcon/Icon_ItemIcon_Middle_Heart.png using Guid(409c2b729256a4b9892a03469a25dcde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d08d30b5ded1732aec53edf7ae3d746') in 0.017270 seconds 
-  Import took 0.024221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_ItemIcons(Original)/Item_Icon_Matches.Png
-  artifactKey: Guid(7e0e268abacc646a4b373775cc2d6ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_ItemIcons(Original)/Item_Icon_Matches.Png using Guid(7e0e268abacc646a4b373775cc2d6ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732a9326f561448aa079fd6f2014c4c4') in 0.016357 seconds 
-  Import took 0.023637 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000164 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_ItemIcons(Original)/Item_Icon_Heart.Png
-  artifactKey: Guid(a5ced58ee847847e39a17d69d6b8c2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_ItemIcons(Original)/Item_Icon_Heart.Png using Guid(a5ced58ee847847e39a17d69d6b8c2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb75e20f6fd3b50959fefb01874c5525') in 0.016986 seconds 
-  Import took 0.024541 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_ItemIcon/Icon_ItemIcon_Small_Health.png
-  artifactKey: Guid(1ca03d855deac4d4ab154008d4d6af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_ItemIcon/Icon_ItemIcon_Small_Health.png using Guid(1ca03d855deac4d4ab154008d4d6af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fedd066c9e1e6235d310ac269b70cb8') in 0.014444 seconds 
-  Import took 0.022702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000164 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/IconGroup_MenuIcon6_Helmet.png
-  artifactKey: Guid(d025d9076fc024f9bbd8f62efcf782d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/IconGroup_MenuIcon6_Helmet.png using Guid(d025d9076fc024f9bbd8f62efcf782d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4853841dcaded055de30cc9322b99194') in 0.013404 seconds 
-  Import took 0.020461 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon06_Chest_s.png
-  artifactKey: Guid(97c0f321eb5eb434cad6abbdff242ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon06_Chest_s.png using Guid(97c0f321eb5eb434cad6abbdff242ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5204d702f6d73fcc8485e8588a8c971') in 0.014465 seconds 
-  Import took 0.021208 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_105_White.png
-  artifactKey: Guid(aa5c3f19bd2f14b32ba1992e4e83d1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_105_White.png using Guid(aa5c3f19bd2f14b32ba1992e4e83d1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6ade47a3509dc7eb504b979bc6f5a4') in 0.014957 seconds 
-  Import took 0.022332 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon04_Healbox_s.png
-  artifactKey: Guid(1f4e21eaf1b9242abac5cb9bccb5177b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon04_Healbox_s.png using Guid(1f4e21eaf1b9242abac5cb9bccb5177b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc41f733c8399086418d883c55b8546c') in 0.015682 seconds 
-  Import took 0.022683 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_359_White2.png
-  artifactKey: Guid(0c95fb997bf584e9dbe570f190dcef37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_359_White2.png using Guid(0c95fb997bf584e9dbe570f190dcef37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614fbd8e4d06eee3e0040ff73cd505ed') in 0.016490 seconds 
-  Import took 0.023751 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000277 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon02_White1.png
-  artifactKey: Guid(14a56fcc5d3534d11aa19a840c25a313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon02_White1.png using Guid(14a56fcc5d3534d11aa19a840c25a313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eabd79e4cf94cb961cd0fb60db635f4') in 0.014511 seconds 
-  Import took 0.022303 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_n_White2.png
-  artifactKey: Guid(c9fe589d1dda7446e82176c11911c0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_n_White2.png using Guid(c9fe589d1dda7446e82176c11911c0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e8729b639b0508b713f9d5e2d7f96c') in 0.014044 seconds 
-  Import took 0.021377 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_FunctionIcons(x2)/64/Icon_Helmet.Png
-  artifactKey: Guid(25fe0e87f29d54955964cd984fd67f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_FunctionIcons(x2)/64/Icon_Helmet.Png using Guid(25fe0e87f29d54955964cd984fd67f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06f6127b41e2e621ede5edd306955e8c') in 0.015528 seconds 
-  Import took 0.022957 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_PictoIcon_Helmet.png
-  artifactKey: Guid(14cd2542e52064577b5496958ce81da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_PictoIcon_Helmet.png using Guid(14cd2542e52064577b5496958ce81da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '786c411ea520e0ec5d825b17fd220f02') in 0.013892 seconds 
-  Import took 0.021142 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_n_White1.png
-  artifactKey: Guid(e32b44c4cc6294929838659b1f666db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_n_White1.png using Guid(e32b44c4cc6294929838659b1f666db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22204f46b5f74cd68f85d0d59a7b002e') in 0.013778 seconds 
-  Import took 0.020497 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Check01.png
-  artifactKey: Guid(3aeebe36e764444ebb55400153ec2331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Check01.png using Guid(3aeebe36e764444ebb55400153ec2331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc742410aa3ed96ad1dbc156fe2cdf6') in 0.015346 seconds 
-  Import took 0.022821 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_StatsIcon_Heart.png
-  artifactKey: Guid(8aca95f3e3d1949a38bb28c1509cfed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_StatsIcon_Heart.png using Guid(8aca95f3e3d1949a38bb28c1509cfed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472472242c4941b814f6bd5ea2b2ac0d') in 0.013723 seconds 
-  Import took 0.019908 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_PictoIcon_Check_White.png
-  artifactKey: Guid(0c76bf649a04049d09c978502f830e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_PictoIcon_Check_White.png using Guid(0c76bf649a04049d09c978502f830e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5ed5b02bfda6189015719dc66b1fc2') in 0.011390 seconds 
-  Import took 0.017396 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000153 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_90_White2.png
-  artifactKey: Guid(8e54a21d46f1e4ce78d6db11042187a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_90_White2.png using Guid(8e54a21d46f1e4ce78d6db11042187a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406d2257ff6f386244fad21714e70f00') in 0.011150 seconds 
-  Import took 0.017118 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_WhiteIcon_Check_l.png
-  artifactKey: Guid(806f1c7d89ef6432bb391f023900790f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_WhiteIcon_Check_l.png using Guid(806f1c7d89ef6432bb391f023900790f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc3f1aa1492e8ea0d77f25781203203') in 0.010795 seconds 
-  Import took 0.017238 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_ItemIcons(Original)/Item_Icon_Military_Helmet.Png
-  artifactKey: Guid(bb184a8803dbb465295c178b713e2351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_ItemIcons(Original)/Item_Icon_Military_Helmet.Png using Guid(bb184a8803dbb465295c178b713e2351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68316820e07ff62a6ec739760456c2b') in 0.019371 seconds 
-  Import took 0.026684 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/IconGroup_EquipmentIcon_Helmet.png
-  artifactKey: Guid(657ab9dd0875f489486e4c003b264667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/IconGroup_EquipmentIcon_Helmet.png using Guid(657ab9dd0875f489486e4c003b264667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '488f57e4e93c4ce4b7fe783b64a36c85') in 0.013095 seconds 
-  Import took 0.020897 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_ItemIcon/Icon_ItemIcon_Middle_Health.png
-  artifactKey: Guid(7e21e7236d1a04803a2308d569ecfe4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_ItemIcon/Icon_ItemIcon_Middle_Health.png using Guid(7e21e7236d1a04803a2308d569ecfe4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8067989c11d62f93def0852b896c002') in 0.013803 seconds 
-  Import took 0.021591 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_FunctionIcons(x2)/64/Icon_Feather.Png
-  artifactKey: Guid(35c062452e1d64f9eb5f6df6d367abcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_FunctionIcons(x2)/64/Icon_Feather.Png using Guid(35c062452e1d64f9eb5f6df6d367abcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea924514b864baa77a402428593d0dd') in 0.012775 seconds 
-  Import took 0.020154 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_FunctionIcons(x2)/64/Icon_Headphone.Png
-  artifactKey: Guid(b93ab6ef361044002832f1a252c48b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_FunctionIcons(x2)/64/Icon_Headphone.Png using Guid(b93ab6ef361044002832f1a252c48b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a5921c06c04e3b51bbd1a4b6308a7e') in 0.012314 seconds 
-  Import took 0.020206 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_WhiteIcon_check_m.png
-  artifactKey: Guid(cc04d8c6097ab4aafbfd11cf1801eba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_WhiteIcon_check_m.png using Guid(cc04d8c6097ab4aafbfd11cf1801eba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e64d7cb7731a69e19298a7c55f8d9446') in 0.012722 seconds 
-  Import took 0.019845 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_ItemIcon/Item_RewardChest_Close.png
-  artifactKey: Guid(861eef8418f4343599535a5f459c7604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_ItemIcon/Item_RewardChest_Close.png using Guid(861eef8418f4343599535a5f459c7604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab74ac07269ccdaeee79ce7a030cb8c') in 0.015729 seconds 
-  Import took 0.024037 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon04_Healbox_n.png
-  artifactKey: Guid(677baaa3e38eb4452af1927e2d0667f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon04_Healbox_n.png using Guid(677baaa3e38eb4452af1927e2d0667f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e13bc3f14b8be33c2d21f1f68e5fd292') in 0.014421 seconds 
-  Import took 0.021613 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_ItemIcon_(OriginalSize)/itemicon_heart.png
-  artifactKey: Guid(791ae6cb9ed5b4301bb6925b78e26f45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_ItemIcon_(OriginalSize)/itemicon_heart.png using Guid(791ae6cb9ed5b4301bb6925b78e26f45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62ea7569ec47c527a900825dc754b41') in 0.014098 seconds 
-  Import took 0.022252 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000155 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_s_White2.png
-  artifactKey: Guid(b72826c56283248dfa7f4534c930bb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Hexagon04_s_White2.png using Guid(b72826c56283248dfa7f4534c930bb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1de0fec855afdbd0393b682a26efdc4') in 0.013896 seconds 
-  Import took 0.020918 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Chest04.Png
-  artifactKey: Guid(6a072601d781b45dfb766e225ad899ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Chest04.Png using Guid(6a072601d781b45dfb766e225ad899ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5bd7a59f94c1f3837401e3371717a5c') in 0.013847 seconds 
-  Import took 0.020634 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon06_Chest_n.png
-  artifactKey: Guid(f054f50ab34524b7c8a8344de3867063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon06_Chest_n.png using Guid(f054f50ab34524b7c8a8344de3867063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47528692899de572fa4201fa1e8e29df') in 0.013293 seconds 
-  Import took 0.020233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_StatsIcon_Health.png
-  artifactKey: Guid(fb9ec5f26cfd942cabcad47ce27b682a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_StatsIcon_Health.png using Guid(fb9ec5f26cfd942cabcad47ce27b682a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2541f506eb8886fb82e08f772980fc8') in 0.014333 seconds 
-  Import took 0.021838 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000436 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Circle01_White2.png
-  artifactKey: Guid(691346a09fba2459bac2995be46ca3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Button_Custom/Btn_IconButton_Circle01_White2.png using Guid(691346a09fba2459bac2995be46ca3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0467ca394aaf8217f0e69cd41d8442cb') in 0.015231 seconds 
-  Import took 0.022619 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Chest02_Purple.Png
-  artifactKey: Guid(9e76f7c00481148b2916e752684fdbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Chest02_Purple.Png using Guid(9e76f7c00481148b2916e752684fdbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a437f1ef6c3cfc6d13fb86c0cdf64398') in 0.015179 seconds 
-  Import took 0.023242 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon04_Helmet_n.png
-  artifactKey: Guid(c8f148c30b49d4df399f56d13d94c501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_MenuIcon/Icon_MenuIcon04_Helmet_n.png using Guid(c8f148c30b49d4df399f56d13d94c501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664a90c9ea92180e48cf2d9a80554835') in 0.014426 seconds 
-  Import took 0.021444 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_FunctionIcons(x2)/64/Icon_Help.Png
-  artifactKey: Guid(08918284ba4a44373b498853d6fc425c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Component/Icon_FunctionIcons(x2)/64/Icon_Help.Png using Guid(08918284ba4a44373b498853d6fc425c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7451a8d847ce2161cb5edb40dd2b037') in 0.013853 seconds 
-  Import took 0.022148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Chest01.png
-  artifactKey: Guid(bb03df383d5d9446ca1a2928afec136c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Demo/Demo_Icon/Icon_ColorIcon_Chest01.png using Guid(bb03df383d5d9446ca1a2928afec136c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb4924a370f45d5e466a18421f4310b') in 0.015385 seconds 
-  Import took 0.023071 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_PictoIcon_Heart.png
-  artifactKey: Guid(7cbdd501007ce449189b7c62574b33ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Sci-Fi Survival/ResourcesData/Sprite/Demo/Demo_Icon/Icon_PictoIcon_Heart.png using Guid(7cbdd501007ce449189b7c62574b33ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2816124e82a155fbff6f4fdff8c48096') in 0.014733 seconds 
-  Import took 0.022840 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_359_White1.png
-  artifactKey: Guid(8a9247940e1eb451cb1573d4d45126c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GUI PRO Kit - Simple Casual/Sprite/Component/Button/Button_Custom/Btn_IconButton_Circle_359_White1.png using Guid(8a9247940e1eb451cb1573d4d45126c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a460442a336d5e8de1e656a3db326f') in 0.016283 seconds 
-  Import took 0.024977 seconds .
-
-========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.012654 seconds.
+Registered in 0.012677 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.87 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.90 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.729 seconds
+- Completed reload, in  1.655 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1730ms)
-		BeginReloadAssembly (134ms)
+	ReloadAssembly (1655ms)
+		BeginReloadAssembly (115ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (52ms)
-		EndReloadAssembly (1544ms)
-			LoadAssemblies (88ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (1491ms)
+			LoadAssemblies (91ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (338ms)
+			SetupTypeCache (333ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (920ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (879ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (94ms)
-				ProcessInitializeOnLoadAttributes (628ms)
-				ProcessInitializeOnLoadMethodAttributes (184ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
+				BeforeProcessingInitializeOnLoad (89ms)
+				ProcessInitializeOnLoadAttributes (581ms)
+				ProcessInitializeOnLoadMethodAttributes (192ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (19ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
 Platform modules already initialized, skipping
 Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
 Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.88 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 3.16 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.0 MB.
-System memory in use after: 230.9 MB.
+System memory in use before: 228.1 MB.
+System memory in use after: 227.1 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4707.
-Total: 26.717400 ms (FindLiveObjects: 0.487600 ms CreateObjectMapping: 0.372600 ms MarkObjects: 25.186700 ms  DeleteObjects: 0.669100 ms)
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 4553.
+Total: 27.928800 ms (FindLiveObjects: 0.508200 ms CreateObjectMapping: 0.283200 ms MarkObjects: 26.589500 ms  DeleteObjects: 0.546600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1726,53 +366,61 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 293.184147 seconds.
-  path: Assets/Mine/Collect/tension-113661.mp3
-  artifactKey: Guid(707bc0b3163d24742a0c2a8f4e9802ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mine/Collect/tension-113661.mp3 using Guid(707bc0b3163d24742a0c2a8f4e9802ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da459e7a22591a49cbaca1805548da00') in 0.056589 seconds 
-  Import took 0.066910 seconds .
+  Time since last request: 489.935799 seconds.
+  path: Assets/AurynSky
+  artifactKey: Guid(be4c314739e4ff34dbd126ba95ffc9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky using Guid(be4c314739e4ff34dbd126ba95ffc9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5dad573b751fd8b7fab680f1626ddf') in 0.008621 seconds 
+  Import took 0.018023 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 37.158422 seconds.
-  path: Assets/Mine/Collect/GameMusic.prefab
-  artifactKey: Guid(8ce9153d7008eb64ab7d918f6a654612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mine/Collect/GameMusic.prefab using Guid(8ce9153d7008eb64ab7d918f6a654612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109931da0f0be1b93d72860cdf7989dd') in 0.013001 seconds 
-  Import took 0.020058 seconds .
+  Time since last request: 13.187806 seconds.
+  path: Assets/Prefabs/PlayerManager.prefab
+  artifactKey: Guid(ad50fc54425ee984c9090ae3c27af8bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerManager.prefab using Guid(ad50fc54425ee984c9090ae3c27af8bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49fc67d78a14ddbb13529cfd9e70d8b') in 0.185753 seconds 
+  Import took 0.192573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.370967 seconds.
+  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
+  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a7101060dfe48964b2b8fdf5786e03') in 0.478267 seconds 
+  Import took 0.514659 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.011846 seconds.
+Registered in 0.013010 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.77 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.96 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  1.578 seconds
 Domain Reload Profiling:
 	ReloadAssembly (1578ms)
-		BeginReloadAssembly (112ms)
+		BeginReloadAssembly (119ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1415ms)
-			LoadAssemblies (83ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1408ms)
+			LoadAssemblies (94ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (304ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (58ms)
-			SetupLoadedEditorAssemblies (841ms)
+			SetupTypeCache (306ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (829ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (566ms)
-				ProcessInitializeOnLoadMethodAttributes (175ms)
+				BeforeProcessingInitializeOnLoad (94ms)
+				ProcessInitializeOnLoadAttributes (561ms)
+				ProcessInitializeOnLoadMethodAttributes (162ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -1780,14 +428,98 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
 Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.93 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.97 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.1 MB.
-System memory in use after: 231.0 MB.
+System memory in use before: 228.9 MB.
+System memory in use after: 227.8 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4712.
-Total: 26.021900 ms (FindLiveObjects: 0.364400 ms CreateObjectMapping: 0.174000 ms MarkObjects: 24.864900 ms  DeleteObjects: 0.617600 ms)
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4591.
+Total: 26.115000 ms (FindLiveObjects: 0.416300 ms CreateObjectMapping: 0.207100 ms MarkObjects: 24.958900 ms  DeleteObjects: 0.531600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 44.405353 seconds.
+  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
+  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f47a7f56cdfa43b4168177e18141da') in 0.581042 seconds 
+  Import took 0.618881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.806452 seconds.
+  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
+  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f806bcfd36f154c7d408114ac960f8') in 0.397999 seconds 
+  Import took 0.433832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.134778 seconds.
+  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
+  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248b98867c6c37b27f6ce64dd0196916') in 0.394973 seconds 
+  Import took 0.430079 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013432 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.567 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1568ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1404ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (307ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (829ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (563ms)
+				ProcessInitializeOnLoadMethodAttributes (167ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 2.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.0 MB.
+System memory in use after: 228.9 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4629.
+Total: 24.170800 ms (FindLiveObjects: 0.420600 ms CreateObjectMapping: 0.186900 ms MarkObjects: 23.047100 ms  DeleteObjects: 0.515000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1803,51 +535,51 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.012134 seconds.
+Registered in 0.013018 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.92 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.88 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.547 seconds
+- Completed reload, in  1.559 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1548ms)
-		BeginReloadAssembly (112ms)
+	ReloadAssembly (1559ms)
+		BeginReloadAssembly (110ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (1382ms)
-			LoadAssemblies (84ms)
+		EndReloadAssembly (1396ms)
+			LoadAssemblies (95ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (306ms)
+			SetupTypeCache (307ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (58ms)
-			SetupLoadedEditorAssemblies (813ms)
+			SetupLoadedEditorAssemblies (807ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (90ms)
-				ProcessInitializeOnLoadAttributes (542ms)
-				ProcessInitializeOnLoadMethodAttributes (168ms)
-				AfterProcessingInitializeOnLoad (5ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (548ms)
+				ProcessInitializeOnLoadMethodAttributes (153ms)
+				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (13ms)
 Platform modules already initialized, skipping
 Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
 Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
-Refreshing native plugins compatible for Editor in 2.91 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.85 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3727 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.1 MB.
-System memory in use after: 231.0 MB.
+System memory in use before: 230.0 MB.
+System memory in use after: 229.0 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4714.
-Total: 26.459200 ms (FindLiveObjects: 0.422500 ms CreateObjectMapping: 0.186300 ms MarkObjects: 25.266300 ms  DeleteObjects: 0.582700 ms)
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 4631.
+Total: 25.684900 ms (FindLiveObjects: 0.343900 ms CreateObjectMapping: 0.159700 ms MarkObjects: 24.703200 ms  DeleteObjects: 0.477100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1860,3 +592,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 76.567078 seconds.
+  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
+  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff767cbfcdb23c0ac3e0a29611acb1b') in 0.556416 seconds 
+  Import took 0.592480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.188083 seconds.
+  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
+  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ef3cf74c6402fea65a1a42049782ae') in 0.436365 seconds 
+  Import took 0.480465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.907614 seconds.
+  path: Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab
+  artifactKey: Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/LevelPrefabs/level 0.prefab using Guid(3eba5d9a79f5f0f4d950e6a700736113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48caa6d0b1ca6269f774cd21a3094e82') in 0.384793 seconds 
+  Import took 0.425102 seconds .
+

@@ -36,14 +36,16 @@ public class PlayerMovementController : MonoBehaviour
 
     #endregion
 
+    public AudioSource coinSound;
+    
+
         void OnTriggerEnter(Collider other) 
 	{
         	if (other.gameObject.CompareTag ("Pick Up"))
             {
-                
+                coinSound.Play();
                 other.gameObject.SetActive (false);
             }
-			
 
     }
 
